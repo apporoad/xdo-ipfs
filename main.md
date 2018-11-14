@@ -12,5 +12,11 @@ ipfs daemon
 ## ipld
 https://github.com/ipld/ipld
 
+### js-ipfs-repo
+installed node-gyp
+https://github.com/ipfs/js-ipfs-repo
+
+code @ src/ipfs-repo.js
+
 ### js-ipld
 https://github.com/ipld/js-ipld
